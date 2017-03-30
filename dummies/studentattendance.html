@@ -1,0 +1,129 @@
+<!DOCTYPE html>
+<html lang="en"> 
+<head>
+<title>CBSRS</title>
+<link rel="stylesheet" href="css/cbsrs.css">
+	<link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="css/responsive.css">
+		<style>
+	.btn {
+  background: #2E80A5;
+  background-image: -webkit-linear-gradient(top, #2E80A5, #2980b9);
+  background-image: -moz-linear-gradient(top, #2E80A5, #2980b9);
+  background-image: -ms-linear-gradient(top, #2E80A5, #2980b9);
+  background-image: -o-linear-gradient(top, #2E80A5, #2980b9);
+  background-image: linear-gradient(to bottom, #2E80A5, #2980b9);
+  -webkit-border-radius: 0;
+  -moz-border-radius: 0;
+  border-radius: 0px;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 14px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #3cb0fd;
+  background-image: -webkit-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -moz-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -ms-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -o-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: linear-gradient(to bottom, #3cb0fd, #3498db);
+  text-decoration: none;
+}
+	</style>
+</head>
+<body>
+<!--------------Header--------------->
+<header>
+	<div class="wrap-header cbsrs">
+		<div id="logo"><a href="#"><img src="./images/logo.png"/></a></div>
+	</div>
+</header>
+
+<nav>
+	<div class="wrap-nav cbsrs">
+		<div class="menu">
+			<ul>
+				<li><a href="studenthomepage.html">Home</a></li>
+				<li><a href="studentprofile.html">Profile</a></li>
+				<li><a href="studentattendance.html">attendance</a></li>
+				<li><a href="studentmarkslist.html">MarksList</a></li>
+				<li><a href="studenttoprankers.html">Top Rankers</a></li>
+				<li><a href="studentlatestresult.html">Latest Results</a></li>
+				<li><a href="studentchangepassword.html">Change Password</a></li>
+				<li><a href="index.html">Logout</a></li>
+				
+			</ul>
+		</div>
+		
+		<div class="minimenu"><div>MENU</div>
+			<select onchange="location=this.value">
+				<option></option>
+				<option value="studenthomepage.html">Home</option>
+				<option value="studentprofile.html">Profile</option>
+				<option value="studentattendance.html">attendance</option>
+				<option value="studentmarkslist.html">MarkList</option>
+				<option value="studenttoprankers.html">Top Rankers</option>
+				<option value="studentlatestresult.html">Latest Results</option>
+				<option value="studentchangepassword.html">Change Password</option>
+				<option value="index.html">Logout</option>
+			</select>
+		</div>		
+	</div>
+</nav>
+<!--------------Content--------------->
+<section id="content">
+	<div class="wrap-content cbsrs">
+		<div class="row block01">
+			<div class="col-full">
+				<div class="wrap-col">
+					<h2 style="color:#2E80A5;">View Attendance</h2>
+					<table border="0">
+				<tr>
+					<td width="445px" align="right">Month:</td><td><select name="month">
+					<option>Jan</option>
+					<option>Feb</option>
+					<option>Mar</option>
+					<option>Apr</option>
+					<option>May</option>
+					<option>Jun</option>
+					<option>Jul</option>
+					<option>Aug</option>
+					<option>Sept</option>
+					<option>Oct</option>
+					<option>Nov</option>
+					<option>Dec</option>
+					<select></td>
+				</tr>
+				
+				<tr>
+					<td align="right" colspan="2"><input class="btn" type="Submit" value="View" name="view"/>&nbsp;&nbsp;&nbsp;
+					<input class="btn" type="Reset" value="Cancel" name="btn"/></td>
+				</tr>
+				</form>
+				<tr>
+					<td colspan='2'>
+						<center>
+							<div style='height:30px;'></div>
+							<span id='show_message'></span>
+						</center>
+					</td>
+				</tr>
+			</table>
+					
+				</div>
+			</div>
+		</div>
+	</div>
+</section><br><br><br><br><br><br><br><br><br><br><br>
+<!--------------Footer--------------->
+<footer>
+	<div class="wrap-footer">
+		<div class="copyright">
+			<p>Copyright © 2017  CLOUD BASED STUDENT RANKING SYSTEM </p>
+		</div>
+	</div>
+</footer>
+</body></html>

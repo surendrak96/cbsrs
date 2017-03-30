@@ -1,0 +1,136 @@
+<!DOCTYPE html>
+<html lang="en"> 
+<head>
+<title>CBSRS</title>
+  	<link rel="stylesheet" href="css/cbsrs.css">
+	<link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="css/responsive.css">
+	<style>
+	.btn {
+  background: #2E80A5;
+  background-image: -webkit-linear-gradient(top, #2E80A5, #2980b9);
+  background-image: -moz-linear-gradient(top, #2E80A5, #2980b9);
+  background-image: -ms-linear-gradient(top, #2E80A5, #2980b9);
+  background-image: -o-linear-gradient(top, #2E80A5, #2980b9);
+  background-image: linear-gradient(to bottom, #2E80A5, #2980b9);
+  -webkit-border-radius: 0;
+  -moz-border-radius: 0;
+  border-radius: 0px;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 14px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #3cb0fd;
+  background-image: -webkit-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -moz-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -ms-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -o-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: linear-gradient(to bottom, #3cb0fd, #3498db);
+  text-decoration: none;
+}
+	</style>
+</head>
+<body>
+<!--------------Header--------------->
+<header>
+	<div class="wrap-header cbsrs">
+		<div id="logo"><a href="#"><img src="./images/logo.png"/></a></div>
+	</div>
+</header>
+
+<nav>
+	<div class="wrap-nav cbsrs">
+		<div class="menu">
+			<ul>
+				<li><a href="facultyhomepage.html">Home</a></li>
+				<li><a href="facultyprofile.html">Profile</a></li>
+				<li><a href="facultyclassdetails.html">Class Details</a></li>
+				<li><a href="facultytoprankers.html">Top Rankers</a></li>
+				<li><a href="facultycompare.html">Compare</a></li>
+				<li><a href="facultysubjectpasspercent.html">Subject Pass Percent</a></li>				
+				<li><a href="facultychangepassword.html">Change Password</a></li>
+				<li><a href="index.html">Logout</a></li>
+				
+			</ul>
+		</div>
+		
+		<div class="minimenu"><div>MENU</div>
+			<select onchange="location=this.value">
+				<option></option>
+				<option value="facultyhomepage.html">Home</option>
+				<option value="facultyprofile.html">Profile</option>
+				<option value="facultyclassdetails.html">Class Details</option>
+				<option value="facultytoprankers.html">Top Rankers</option>
+				<option value="facultycompare.html">Compare</option>
+				<option value="facultysubjectpasspercent.html">Subject Pass Percent</option>
+				<option value="facultychangepassword.html">Change Password</option>
+				<option value="index.html">Logout</option>
+			</select>
+		</div>		
+	</div>
+</nav>
+<!--------------Content--------------->
+<section id="content">
+	<div class="wrap-content cbsrs">
+		<div class="row block01">
+			<div class="col-full">
+				<div class="wrap-col">
+					<h2 style="color:#2E80A5;">Class Details Page!</h2>
+				<table border="0">
+					<tr>
+					<td width="445px" align="right">Branch:</td><td><select name="branch">
+					<option>CSE</option>
+					<option>IT</option>
+					<option>EEE</option>
+					<option>ECE</option>
+					<option>CIVIL</option>
+					<option>MECH</option>
+					</select></td>
+				</tr>
+				<tr>
+					<td width="445px" align="right">Semister:</td><td><select name="etype">
+					<option>1-1</option>
+					<option>1-2</option>
+					<option>2-1</option>
+					<option>2-2</option>
+					<option>3-1</option>
+					<option>3-2</option>
+					<option>4-1</option>
+					<option>4-2</option>
+					
+					<select></td>
+				</tr>
+				
+				<tr>
+					<td align="right" colspan="2"><input class="btn" type="Submit" value="View" name="view"/>&nbsp;&nbsp;&nbsp;
+					<input class="btn" type="Reset" value="Cancel" name="btn"/></td>
+				</tr>
+				</form>
+				<tr>
+					<td colspan='2'>
+						<center>
+							<div style='height:30px;'></div>
+							<span id='show_message'></span>
+						</center>
+					</td>
+				</tr>
+				</table>
+				</div>
+			</div>
+		</div>
+	</div>
+</section><br><br><br><br><br><br><br><br><br><br><br>
+<!--------------Footer--------------->
+<footer>
+	<div class="wrap-footer">
+		<div class="copyright">
+			<p>Copyright © 2017  CLOUD BASED STUDENT RANKING SYSTEM </p>
+		</div>
+	</div>
+</footer>
+
+</body></html>

@@ -1,0 +1,142 @@
+<!DOCTYPE html>
+<html lang="en"> 
+<head>
+<title>CBSRS</title>
+  	<link rel="stylesheet" href="css/cbsrs.css">
+	<link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="css/responsive.css">
+	<style>
+	.btn {
+  background: #2E80A5;
+  background-image: -webkit-linear-gradient(top, #2E80A5, #2980b9);
+  background-image: -moz-linear-gradient(top, #2E80A5, #2980b9);
+  background-image: -ms-linear-gradient(top, #2E80A5, #2980b9);
+  background-image: -o-linear-gradient(top, #2E80A5, #2980b9);
+  background-image: linear-gradient(to bottom, #2E80A5, #2980b9);
+  -webkit-border-radius: 0;
+  -moz-border-radius: 0;
+  border-radius: 0px;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 14px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #3cb0fd;
+  background-image: -webkit-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -moz-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -ms-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -o-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: linear-gradient(to bottom, #3cb0fd, #3498db);
+  text-decoration: none;
+}
+	</style>
+</head>
+<body>
+<!--------------Header--------------->
+<header>
+	<div class="wrap-header cbsrs">
+		<div id="logo"><a href="#"><img src="./images/logo.png"/></a></div>
+	</div>
+</header>
+
+<nav>
+	<div class="wrap-nav cbsrs">
+		<div class="menu">
+			<ul>
+				<li><a href="adminhomepage.html">Home</a></li>
+				<li><a href="adminregistrations.html">Registrations</a></li>
+				<li><a href="adminviewusers.html">View Users</a></li>
+				<li><a href="adminapprovestudents.html">Approve Students</a></li>
+				<li><a href="adminuploaddata.html">Upload Data</a></li>
+				<li><a href="adminchangepassword.html">Change Password</a></li>
+				<li><a href="index.html">Logout</a></li>
+				
+			</ul>
+		</div>
+		
+		<div class="minimenu"><div>MENU</div>
+			<select onchange="location=this.value">
+				
+				<option value="adminhomepage.html">Home</option>
+				<option value="adminregistrations.html">New User Registration</option>
+				<option value="adminviewusers.html">View and Update Users</option>
+				<option value="adminapprovestudents.html">Approve Students</option>
+				<option value="adminuploaddata.html">Upload Data</option>
+				<option value="adminchangepassword.html">>Change Password</option>
+				<li><a href="index.html">Logout</a></li>
+			</select>
+		</div>		
+	</div>
+</nav>
+<!--------------Content--------------->
+<section id="content">
+	<div class="wrap-content cbsrs">
+		<div class="row block01">
+			<div class="col-full">
+				<div class="wrap-col">
+				<h2 style="text-align:left";><b style="color:#2E80A5">New User Registration</b></h2>
+                <table border="0">
+<tr>
+					<td width="445px" align="right">UserType:</td>
+					<td><select style="border:solid;" name="utype"><option>Faculty</option><option>HOD</option><option>Principal</option></select>
+					</td>
+				</tr>
+				<tr>
+					<td  align="right">UserID:</td><td><input style="border:solid;" type="text" name="uname" value=""/></td>
+				</tr>
+				<tr>
+					<td align="right">Name:</td><td><input style="border:solid;" type="text" name="name" value=""/></td>
+				</tr>
+				<tr>
+					<td align="right">Gender:</td>
+					<td><label><input type="radio" value="Male" name="gender">Male</label>
+						<label><input type="radio" value="Female" name="gender">Female</label>
+					</td>
+				</tr>
+				<tr>
+					<td align="right">Branch:</td>
+					<td><select style="border:solid;" name="branch"><option>CSE</option><option>IT</option><option>EEE</option><option>ECE</option><option>CIVIL</option><option>MECH</option></select>
+					</td>
+				</tr>	
+								
+				<tr>
+					<td align="right">Email:</td><td><input style="border:solid;" type="text" name="email" value=""/></td>
+				</tr>
+				<tr>
+					<td align="right">Mobile no:</td><td><input style="border:solid;" type="text" name="mobile" value=""/></td>
+				</tr>
+				<tr>
+					<td align="right">Address:</td><td><textarea style="border:solid;" rows="5" cols="22" name='address'></textarea></td>
+				</tr>
+				<tr>
+					<td align="right">Password:</td><td><input style="border:solid;" type="password" name="pwd1" value=""/></td>
+				</tr>
+				<tr>
+					<td align="right">CPassword:</td><td><input style="border:solid;" type="password" name="pwd2" value=""/></td>
+				</tr>
+				<tr>
+					<td align="right" colspan="2"><input class="btn" type="Submit" value="Register" name="register"/>
+					<input class="btn" type="Reset" value="Cancel" name="btn"/></td>
+				</tr>
+				</form>
+				
+			</table>
+					
+				</div>
+			</div>
+		</div>
+	</div>
+</section><br><br><br><br><br><br><br><br><br><br><br>
+<!--------------Footer--------------->
+<footer>
+	<div class="wrap-footer">
+		<div class="copyright">
+			<p>Copyright © 2017  CLOUD BASED STUDENT RANKING SYSTEM </p>
+		</div>
+	</div>
+</footer>
+
+</body></html>

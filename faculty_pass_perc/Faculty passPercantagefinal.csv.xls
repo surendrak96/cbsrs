@@ -1,0 +1,316 @@
+Employee Id,Faculty Name,Subject,Pass %,Department
+1,M. Anil  Kumar,Data Structures Lab ,100,CSE
+1,M. Anil  Kumar,Data Structures Lab ,100,IT
+1,M. Anil  Kumar,Data Structures ,62,IT
+1,M. Anil  Kumar,Cryptography and Network Security ,55,CSE
+1,M. Anil  Kumar,Data Structures ,84,CSE
+1,M.Anil Kumar,Cryptography and Network Security ,78,IT
+1,M. Anil  Kumar,Computer Networks ,65,IT
+2,P.Srilatha,UML & Design Patterns ,73,CSE
+2,P.Srilatha,Compiler Design ,88,CSE
+2,P.Srilatha,Compiler Design Lab ,100,CSE
+2,P.Srilatha,UML & Design Patterns Lab ,100,CSE
+2,P.Srilatha,UML & Design Patterns ,82,IT
+2,P.Srilatha,UML & Design Patterns Lab ,100,IT
+3,S. N S V S C Ramesh,Mobile Computing ,79,CSE
+3,S. N S V S C Ramesh,Mobile Computing ,71,IT
+4,P.Satya Sruthi,Software Testing Methodologies,90,CSE
+4,P.Satya Sruthi,Software Testing Lab ,93,CSE
+4,P.Satya Sruthi,Software Testing Methodologies,92,IT
+4,P.Satya Sruthi,Software Testing Lab ,100,IT
+5,R V S Lalitha,Hadoop and Big Data,93,CSE
+5,R V S Lalitha,Hadoop & BigData Lab ,100,CSE
+5,R V S Lalitha,Hadoop and Big Data,91,IT
+5,R V S Lalitha,Hadoop & BigData Lab ,100,IT
+6,K Naga Bhargavi,Mobile Application Development Lab ,100,CSE
+6,K Naga Bhargavi,Mobile Application Development Lab ,100,IT
+7,N.Surya Kala,Computer Networks,80,CSE
+7,N.Surya Kala,Computer Networks Lab ,100,CSE
+7,N.Surya Kala,Formal Languages and Automata Theory ,89,CSE
+7,N.Surya Kala,Free Open Source Software(FOSS) Lab ,100,CSE
+7,N.Surya Kala,Computer Networks Lab ,100,IT
+7,N.Surya Kala,Language Processors ( 50% FLAT +50% CD),73,IT
+7,N.Surya Kala,Free Open Source Software(FOSS) Lab ,100,IT
+8,Dr. R.Srinivas,Data Ware housing and Mining ,78,CSE
+8,Dr. R.Srinivas,Computer Organization ,54,CSE
+8,Dr. R.Srinivas,Digital Logic Design ,64,CSE
+8,Dr. R.Srinivas,Digital Logic Design Lab ,100,CSE
+8,Dr. R.Srinivas,Data Ware housing and Mining ,66,IT
+8,Dr. R.Srinivas,Computer Organization ,34,IT
+8,Dr. R.Srinivas,Digital Logic Design ,54,IT
+8,Dr. R.Srinivas,Digital Logic Design Lab ,100,IT
+9,Ch.S.V.V.S.N.Murty,Design and Analysis of Algorithms ,76,CSE
+9,Ch.S.V.V.S.N.Murty,Design and Analysis of Algorithms ,89,IT
+10,V.V.Subba rao,Software Engineering ,43,CSE
+10,V.V.Subba rao,Software Engineering Lab ,100,CSE
+10,V.V.Subba rao,Software Testing ,67,IT
+10,V.V.Subba rao,Software Testing Lab ,100,IT
+10,V.V.Subba rao,Software Engineering ,89,IT
+11,K.S.B.Ambika ,Web Technologies ,58,CSE
+11,K.S.B.Ambika ,Web Technologies Lab ,100,CSE
+11,K.S.B.Ambika ,Web Technologies ,86,IT
+11,K.S.B.Ambika ,Web Technologies Lab ,100,IT
+12,G.K. Chakravarthy,IPR and Patents- II ,86,CSE
+12,G.K. Chakravarthy,IPR and Patents,88,CSE
+12,G.K. Chakravarthy,IPR & Patents ,89,CIVIL
+12,G.K. Chakravarthy,IPR & Patents ,76,EEE
+12,G.K. Chakravarthy,IPR and Patents- II ,90,IT
+12,G.K. Chakravarthy,IPR and Patents,78,IT
+12,G.K. Chakravarthy,IPR & Patents ,80,MECH
+13,K. Preethi,Data Communication ,74,CSE
+13,K. Preethi,Data Communication ,53,IT
+14,M.Masthan Siva Krishna,Principles of Programming Languages ,67,CSE
+15,R V V N Bheema Rao,Database Management Systems ,65,CSE
+15,R V V N Bheema Rao,Database Management Systems Lab ,100,CSE
+15,R V V N Bheema Rao,Java Programming ,66,CSE
+15,R V V N Bheema Rao,Java Programming Lab ,100,CSE
+15,R V V N Bheema Rao,Computer Programming,66,CSE
+15,R V V N Bheema Rao,C Programming-Lab,100,CSE
+15,R V V N Bheema Rao,Computer Programming,67,CIVIL
+15,R V V N Bheema Rao,C Programming-Lab,100,CIVIL
+15,R V V N Bheema Rao,3 Advanced JAVA,70,IT
+15,R V V N Bheema Rao,Database Management Systems ,71,IT
+15,R V V N Bheema Rao,Advanced JAVA Lab,100,IT
+15,R V V N Bheema Rao,Database Management Systems Lab ,100,IT
+15,R V V N Bheema Rao,Java Programming ,79,IT
+15,R V V N Bheema Rao,Java Programming Lab ,100,IT
+15,R V V N Bheema Rao,Computer Programming,64,IT
+15,R V V N Bheema Rao,C Programming-Lab,100,IT
+15,R V V N Bheema Rao,Computer Programming,78,MECH
+15,R V V N Bheema Rao,C Programming-Lab,100,MECH
+16,D.Haritha,Operating Systems ,80,CSE
+16,D.Haritha,Operating System Lab ,100,CSE
+16,D.Haritha,Operating Systems ,87,IT
+16,D.Haritha,Operating System Lab ,100,IT
+17,G.Dharma Raju,Linux Programming Lab ,100,CSE
+17,G.Dharma Raju,Linux Programming Lab ,100,IT
+18,B.Manikyala Rao,Seminar ,100,CSE
+18,B.Manikyala Rao,Seminar ,100,CSE
+18,B.Manikyala Rao,Seminar ,100,IT
+18,B.Manikyala Rao,Seminar ,100,IT
+19,H.Lalitha,Probability and statistics,70,CSE
+19,H.Lalitha,Probability & Statistics ,71,CIVIL
+19,H.Lalitha,Probability and statistics ,72,IT
+20,Ande Koti Veera Nagayya,Advanced Data Structures ,80,CSE
+20,Ande Koti Veera Nagayya,Advanced Data Structures Lab ,100,CSE
+20,Ande Koti Veera Nagayya,Advanced Data Structures ,87,IT
+20,Ande Koti Veera Nagayya,Advanced Data Structures Lab ,100,IT
+21,D.Namratha,Managerial Economics and Financial Analysis ,56,CSE
+21,D.Namratha,Managerial Economics and Financial Analysis,65,CIVIL
+21,D.Namratha,Managerial Economics and Financial Analysis,67,EEE
+21,D.Namratha,Managerial Economics and Financial Analysis ,76,IT
+22,D.Satya Srinivas,Object Oriented Programming through C++ ,98,CSE
+22,D.Satya Srinivas,Object Oriented Programming Lab ,100,CSE
+22,D.Satya Srinivas,Computer Programming,89,ECE
+22,D.Satya Srinivas,C Programming-Lab,100,ECE
+22,D.Satya Srinivas,Object Oriented Programming through C++ ,78,IT
+22,D.Satya Srinivas,Object Oriented Programming Lab ,100,IT
+23,V.Padma Praveen,Mathematical Foundations of Computer Science ,89,CSE
+23,V.Padma Praveen,Mathematical Foundations of Computer Science ,56,IT
+24,P.Surendra,English-II,99,CSE
+24,P.Surendra,English-Communication Skills Lab-II,100,CSE
+24,P.Surendra,English-I,95,CSE
+24,P.Surendra,English-Communication Skills Lab-1,100,CSE
+24,P.Surendra,English-II,97,CIVIL
+24,P.Surendra,English-Communication Skills Lab-II,100,CIVIL
+24,P.Surendra,English-I,90,CIVIL
+24,P.Surendra,English-Communication Skills Lab-1,100,CIVIL
+24,P.Surendra,English-II,84,IT
+24,P.Surendra,English-Communication Skills Lab-II,100,IT
+24,P.Surendra,English-I,92,IT
+24,P.Surendra,English-Communication Skills Lab-1,100,IT
+24,P.Surendra,English- II,94,MECH
+24,P.Surendra,English- Communication Skills Lab-II,100,MECH
+24,P.Surendra,English Communication Skills Lab - I,100,MECH
+24,P.Surendra,English - I,90,MECH
+25,K.Ammaji,Mathematics-II,80,CSE
+25,K.Ammaji,Mathematics-II,86,CIVIL
+25,K.Ammaji,Mathematics-II,87,IT
+25,K.Ammaji,Mathematics- II,70,MECH
+26,H.Naga Devi,Mathematics-III,89,CSE
+26,H.Naga Devi,Mathematics-I,77,CSE
+26,H.Naga Devi,Mathematics-III,80,CIVIL
+26,H.Naga Devi,Mathematics-I,50,CIVIL
+26,H.Naga Devi,Mathematics-III,65,IT
+26,H.Naga Devi,Mathematics-I,54,IT
+26,H.Naga Devi,Mathematics- III,64,MECH
+26,H.Naga Devi,Mathematics - I,38,MECH
+27,D.Rama Krishna,Engineering Physics,99,CSE
+27,D.Rama Krishna,Engineering Physics Lab,100,CSE
+27,D.Rama Krishna,Networks &Electrical Technology Lab,100,ECE
+27,D.Rama Krishna,Engineering Physics,56,CIVIL
+27,D.Rama Krishna,Engineering Physics Lab,100,CIVIL
+27,D.Rama Krishna,Engineering Physics,71,IT
+27,D.Rama Krishna,Engineering Physics Lab,100,IT
+27,D.Rama Krishna,Engineering Physics,68,MECH
+27,D.Rama Krishna,Engineering Physics Lab,100,MECH
+27,D.Rama Krishna,Engineering Physics - Virtual Labs - Assignments,100,MECH
+28,K.Ram Kumar,Professional Ethics and Human Values,96,CSE
+28,K.Ram Kumar,Environmental Studies,98,CSE
+28,K.Ram Kumar,Professional Ethics and Human Values,95,ECE
+28,K.Ram Kumar,Environmental Studies,97,ECE
+28,K.Ram Kumar,Professional Ethics and Human Values,98,CIVIL
+28,K.Ram Kumar,Environmental Studies,94,CIVIL
+28,K.Ram Kumar,Environmental studies ,94,EEE
+28,K.Ram Kumar,Professional Ethics and Human Values,95,EEE
+28,K.Ram Kumar,Professional Ethics and Human Values,93,IT
+28,K.Ram Kumar,Environmental Studies,97,IT
+28,K.Ram Kumar,Professional Ethics and Human Values,96,MECH
+28,K.Ram Kumar,Environmental Studies,97,MECH
+29,G.Deepu,Engineering Drawing,89,CSE
+29,G.Deepu,Engineering Drawing,85,CIVIL
+29,G.Deepu,Engineering Drawing,71,IT
+29,G.Deepu,Engineering Drawing,90,MECH
+30,B.Alekhya,Engineering Workshop & IT Workshop,100,CSE
+30,B.Alekhya,Engineering Workshop & IT Workshop,100,EEE
+30,B.Alekhya,Engineering Workshop & IT Workshop,100,CIVIL
+30,B.Alekhya,Engineering Workshop & IT Workshop,100,ECE
+31,N.Pravallika,Engineering Chemistry,87,CSE
+31,N.Pravallika,Engineering Chemistry Lab,100,CSE
+32,A.Om Prakash,Engineering Mechanics,70,CSE
+32,A.Om Prakash,Engineering Mechanics,72,ECE
+33,R.Veera Sekhar,VLSI Design,70,ECE
+34,H.Pavan Kumar,Computer Networks ,75,ECE
+35,R.Padmavathi,Digital Image Processing ,65,ECE
+36,G.Jaya Lalitha,Computer Architecture & Organization ,62,ECE
+37,L.Madhav,Radar Systems,52,ECE
+38,E.Madhumathi,Optical Communications,68,ECE
+39,A.Jaya Ram,V L S I Lab,100,ECE
+40,S.Jagadeesh,Microwave Engineering Lab,100,ECE
+41,K.Sravya,Microprocessors and Microcontrollers ,82,ECE
+42,V.Kanna Babu,Digital Signal Processing ,76,ECE
+43,P.Rama Chandra Murthy,Digital Communications ,75,ECE
+44,M.Vithal,Microwave Engineering,64,ECE
+45,I.Venkateswarulu,Biomedical Engineering,62,ECE
+46,G.Hanumantha Rao,Microprocessors and Microcontrollers Lab,100,ECE
+47,Victoria Rani,Digital Communications Lab ,100,ECE
+48,M.Syamala,Digital Signal Processing Lab,100,ECE
+49,G.Poojitha,Seminar,100,ECE
+50,Abdul Farheen Khan,Pulse & Digital Circuits,98,ECE
+51,T.Prabhakar,Linear IC Applications,88,ECE
+51,T.Prabhakar,LIC Applications Lab,100,ECE
+52,Ch.Padma Sudha,Control Systems ,86,ECE
+53,K.Durga Prasad,Digital System Design & Digital IC Applications,76,ECE
+53,K.Durga Prasad,Digital System Design & DICA Lab ,89,ECE
+54,G.Suvarchala,Antennas and Wave Propagation ,88,ECE
+55,D.Vasu Babu,Pulse & Digital Circuits Lab ,100,ECE
+56,H.Kalyan,IPR& Patents ,82,ECE
+57,M.Veera Raju,Electronic Circuit Analysis ,66,ECE
+58,G.Anitha,Management Science ,94,ECE
+59,J.Anuja,Random Variables & Stochastic Processes,88,ECE
+60,G.Rama Rao,Switching Theory & Logic Design,76,ECE
+61,S.Yeswanth,EM Waves and TransMiss.ion Lines ,72,ECE
+62,D.Bala Prasad,Analog Communications ,58,ECE
+63,V.Rajesh Babu,Electronic Circuit Analysis Lab,100,ECE
+64,Ch.Prasanna,Analog Communications Lab ,100,ECE
+65,K.Neelima,Electronic Devices and Circuits ,87,ECE
+66,H.Sowmya,Data Structures,88,ECE
+67,L.Shanti,Environmental Studies ,100,ECE
+68,V.Sravani,Signals & Systems ,82,ECE
+69,P.Himaja,Electrical Technology ,81,ECE
+70,T.Chandra Sekhar,Electronic Devices and Circuits Lab,82,ECE
+71,S.Sunitha,English-II,83,ECE
+71,S.Sunitha,English-II,84,EEE
+72,T.Surendra,Mathematics-II,85,ECE
+72,T.Surendra,Mathematics-II,86,EEE
+73,S.Naga Devi,Mathematics-III,87,ECE
+73,S.Naga Devi,Mathematics-III,88,EEE
+74,R.Rajesh Babu,Engineering Physics,89,ECE
+74,R.Rajesh Babu,Engineering Physics,90,EEE
+75,A.Reshma,Engineering Drawing,91,ECE
+75,A.Reshma,Engineering Drawing,92,EEE
+76,G.Neelima,English-Communication Skills Lab-II,100,ECE
+76,G.Neelima,English-I,100,ECE
+76,G.Neelima,English-Communication Skills Lab-1,100,ECE
+76,G.Neelima,English-Communication Skills Lab-II,100,EEE
+77,P.Rajesh Babu,Engineering Physics Lab,100,ECE
+77,P.Rajesh Babu,Engineering Physics Lab,100,EEE
+78,K.Lalitha,Mathematics-I,86,ECE
+79,H.Shanti,Engineering Chemistry,98,ECE
+79,H.Shanti,Engineering Chemistry Lab,100,ECE
+80,A.Bhagya Lakshmi,Environmental Engineering – I,87,CIVIL
+80,A.Bhagya Lakshmi,Environmental Engineering – I,82,CIVIL
+81,T.Sneha,Prestressed Concrete ,86,CIVIL
+82,L.Ganesh,Construction Technology and Management ,85,CIVIL
+83,D.Surya Kala,Water Resources Engineering–II ,76,CIVIL
+84,Ch.Surya Reddy,Remote Sensing and GIS Applications ,76,CIVIL
+85,K.Venkata Lakshmi,Ground Improvement Techniques,73,CIVIL
+86,T.Siva Rama Krishna,Environmental Engineering – I,76,CIVIL
+87,M.Maha Lakshmi,GIS & CAD Lab,100,CIVIL
+88,B.Jhonsan,Design and Drawing of Steel Structures ,65,CIVIL
+89,S.Kiran Kumar,Geotechnical Engineering – I ,41,CIVIL
+89,S.Kiran Kumar,Geotechnical Engineering – II,57,CIVIL
+89,S.Kiran Kumar,Geotechnical Engineering Lab ,100,CIVIL
+90,G.Gopal,Water Resources Engineering–I ,65,CIVIL
+91,P V R Chaitanya,Transportation Engineering – II,65,CIVIL
+91,P V R Chaitanya,Transportation Engineering Lab ,100,CIVIL
+91,P V R Chaitanya,Transportation Engineering – I,76,CIVIL
+92,P.Vanama Reddy,Open Elective ,32,CIVIL
+93,R Siva Shankar,Computer Aided Engineering Drawing ,89,CIVIL
+94,G.Anil,Engineering Geology,45,CIVIL
+94,G.Anil,Engineering Geology Lab ,100,CIVIL
+95,A.Amir,Structural Analysis – II ,76,CIVIL
+95,A.Amir,Structural Analysis - I ,56,CIVIL
+96,S.Abhimitra,Design and Drawing of Reinforced Concrete Structures,77,CIVIL
+97,G.Hema Mahesh,Building Planning & Drawing ,56,CIVIL
+97,G.Hema Mahesh,Building Materials and Construction ,78,CIVIL
+98,P.Avinash Reddy,Strength of Materials- II ,89,CIVIL
+98,P.Avinash Reddy,Strength of Materials-I ,67,CIVIL
+98,P.Avinash Reddy,Strength of Materials Lab,100,CIVIL
+99,V.Sathish Kumar,Hydraulics and Hydraulic Machinery ,89,CIVIL
+99,V.Sathish Kumar,Fluid Mechanics and Hydraulic Machinery Lab,88,CIVIL
+99,V.Sathish Kumar,Fluid Mechanics ,87,CIVIL
+100,M.Chalaparthy,Concrete Technology ,87,CIVIL
+100,M.Chalaparthy,Concrete Technology Lab,100,CIVIL
+101,T.Ravi,Surveying Field work-II,78,CIVIL
+101,T.Ravi,Surveying ,76,CIVIL
+101,T.Ravi,Surveying Field work-I,78,CIVIL
+102,P.Krishna Rao,Electrical & Electronics Engineering ,69,CIVIL
+103,N.Pravallika,Engineering Chemistry,76,CIVIL
+103,N.Pravallika,Engineering Chemistry Lab,100,CIVIL
+103,N.Pravallika,Engineering Chemistry,87,IT
+103,N.Pravallika,Engineering Chemistry,82,MECH
+103,N.Pravallika,Engineering Chemistry Lab,100,MECH
+103,N.Pravallika,Engineering Chemistry,87,CIVIL
+104,A.Om Prakash,Engineering Mechanics,98,CIVIL
+104,A.Om Prakash,Engineering Mechanics,76,IT
+104,A.Om Prakash,Engineering Mechanics,87,MECH
+105,O.Manikanta,Renewable Energy Sources and Systems ,78,EEE
+106,V.Raghavendra,HVAC & DC TransMiss.ion,65,EEE
+107,A.Amar,Power System Operation & Control ,56,EEE
+107,A.Amar,Power systems lab,100,EEE
+107,A.Amar,Power Electronics Lab ,100,EEE
+107,A.Amar,Power Systems-II ,76,EEE
+107,A.Amar,Power Electronics ,76,EEE
+107,A.Amar,Power Systems-I,76,EEE
+108,V.Bhanoji Rao,Open Elective ,67,EEE
+108,V.Bhanoji Rao,Electrical Simulation Lab,100,EEE
+109,G.Padma Kumari,Elective – I,78,EEE
+109,G.Padma Kumari,Microprocessors & Microcontrollers Lab,100,EEE
+109,G.Padma Kumari,Microprocessors & Microcontrollers ,65,EEE
+110,S.Sahithya,Switchgear and Protection ,76,EEE
+110,S.Sahithya,Control Systems Lab,100,EEE
+111,Ch.Srinivasa Reddy,Utilization of Electrical Energy ,87,EEE
+111,Ch.Srinivasa Reddy,Electrical Measurements Lab ,100,EEE
+111,Ch.Srinivasa Reddy,Electrical Measurements ,88,EEE
+112,V.Mani Kumari,Power System Analysis ,86,EEE
+113,D.Leela Vathi,Power Semiconductor Drives ,76,EEE
+114,S.Durga Rao,Management Science ,86,EEE
+115,P.Nuthan Raj,Electrical Machines-III ,65,EEE
+115,P.Nuthan Raj,Electrical Machines-II Lab,,EEE
+115,P.Nuthan Raj,Electrical Machines-II ,100,EEE
+115,P.Nuthan Raj,Electrical Machines-I ,75,EEE
+115,P.Nuthan Raj,Electrical Machines -I Lab ,100,EEE
+116,Nisha Jain,Linear & Digital IC Applications ,76,EEE
+117,I.Indra,Switching Theory and Logic Design ,68,EEE
+118,Zaheer Khan,Pulse & Digital Circuits,56,EEE
+119,O.Omkar,Control Systems ,59,EEE
+120,Ch.Raja,Electronic Devices & Circuits,75,EEE
+121,M.Mohan Narayana,Electrical Circuit Analysis-II ,75,EEE
+121,M.Mohan Narayana,Electrical Circuits Lab ,100,EEE
+122,B.S.S.Spandan,Thermal and Hydro Prime movers ,87,EEE
+122,B.S.S.Spandan,Thermal and Hydro Lab ,67,EEE
+123,A.Joga Haritha,Basic Electronics And Devices,78,EEE
+124,T.Tarun,Complex Variables and Statistical Methods,74,EEE
+125,S.Manasa,Electro Magnetic Fields ,67,EEE
+126,P.Rama Krishna Rao,,,principal
